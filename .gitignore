@@ -1,0 +1,7 @@
+.env/
+.python/
+.uv-cache/
+data/
+runs/
+__pycache__/
+*.pyc
